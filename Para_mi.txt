@@ -1,0 +1,7 @@
+Sigue aprendiendo sin preguntarte para qué.
+
+Iré plasmando lo que voy estudiando acerca de Rust, un lenguaje de programación relativamente nuevo
+que me permitirá consolidar mis conocimientos de mejor manera acerca de la programación, de los cuales
+estoy inseguro a veces.
+
+Termina todo lo que empiezas.
